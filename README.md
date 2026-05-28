@@ -53,6 +53,7 @@ O projeto deverá apresentar:
 - Banco ( MySQL)
 - Projetos (Github)
 - Integração (API REST)
+  
 _Obs.: Outros frameworks, bibliotecas e ferramentas podem ser utilizadas, desde que aprovadas previamente pelos professores._
 
 
