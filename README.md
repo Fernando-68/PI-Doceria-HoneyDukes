@@ -1,5 +1,5 @@
 
-![Logo](https://chatgpt.com/s/m_6a29b69446c88191bfe89132ca3c5e1e2)
+![devStack](./img/devStack.png)
 
 
 # Projeto Integrador 
