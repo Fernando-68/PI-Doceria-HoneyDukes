@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](https://chatgpt.com/s/m_6a29a804f8f08191bff80a3163d24ca2)
 
 
 # Projeto Integrador 
@@ -73,7 +73,7 @@ Cada grupo deverá apresentar:
 - Criação do fork do repositório conforme o programa/software/app.
 - Criação da TAP (Termo de Abertura de Projeto) | certidão de nasc.
 - Validação da TAP.
-- Criar o Projeto ( GitHub Projects)
+- Criar o Projeto (GitHub Projects)
 - Criação de Issues (tasks)
 - Atrelar os responsáveis (Quem responde pela Task) Assign
 - Criar os marcos (milestones)
@@ -93,8 +93,7 @@ Exemplo: git commit -m `[funcionalidade] integração route ./login `
 
 ## Authors
 
-- [@Aluno1](https://www.github.com/octokatherine)
-- [@Aluno2](https://www.github.com/octokatherine)
-- [@Aluno3](https://www.github.com/octokatherine)
-- [@Aluno4](https://www.github.com/octokatherine)
-- [@Aluno5](https://www.github.com/octokatherine)
+- [@fernandodeSá](https://www.github.com/Fernando-68)
+- [@matheuslucas](https://www.github.com/suehtam6)
+- [@alicecampos](https://www.github.com/trixiealice)
+- [@brunohaddad](https://www.github.com/Alveszx1)
