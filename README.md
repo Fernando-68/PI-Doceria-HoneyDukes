@@ -97,3 +97,8 @@ Exemplo: git commit -m `[funcionalidade] integração route ./login `
 - [@matheuslucas](https://www.github.com/suehtam6)
 - [@alicecampos](https://www.github.com/trixiealice)
 - [@brunohaddad](https://www.github.com/Alveszx1)
+
+## Repositórios de Back e Front
+
+- Back-end: https://github.com/Fernando-68/Back-end_honeydukes
+- Front-end: https://github.com/Fernando-68/Front-end_honeydukes
