@@ -98,7 +98,8 @@ Exemplo: git commit -m `[funcionalidade] integração route ./login `
 - [@alicecampos](https://www.github.com/trixiealice)
 - [@brunohaddad](https://www.github.com/Alveszx1)
 
-## Repositórios de Back e Front
+## Repositórios de Back e Front (+ Link do Figma)
 
 - Back-end: https://github.com/Fernando-68/Back-end_honeydukes
 - Front-end: https://github.com/Fernando-68/Front-end_honeydukes
+- Protótipo Figma: https://www.figma.com/design/rm0e2OfZZHG7EUjxemnuok/HoneyDuke-s?node-id=0-1&p=f&t=UhRsF76ewY1XeZ8l-0
