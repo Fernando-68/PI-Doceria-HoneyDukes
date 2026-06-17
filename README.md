@@ -50,7 +50,7 @@ O projeto deverá apresentar:
 ## Tecnologias 
 - Frontend (HTML, CSS e JS sem uso de frameworks)
 - Backend (Node.js)
-- Banco ( MySQL)
+- Banco (MySQL)
 - Projetos (Github)
 - Integração (API REST)
   
@@ -93,14 +93,14 @@ Exemplo: git commit -m `[funcionalidade] integração route ./login `
 
 ## Authors
 
-- [@fernandodeSá](https://www.github.com/Fernando-68)
+- [@fernandodesá](https://www.github.com/Fernando-68)
 - [@matheuslucas](https://www.github.com/suehtam6)
 - [@alicecampos](https://www.github.com/trixiealice)
 - [@brunohaddad](https://www.github.com/Alveszx1)
 
 ## Repositórios de Back e Front (+ Link do Figma)
 
-- Back-end: https://github.com/Fernando-68/Back-end_honeydukes
+- Back-end: https://github.com/Alveszx1/backend-honeyducks
 - Front-end (cliente): https://github.com/Fernando-68/Front-end_honeydukes
-- Front-end (admin): https://github.com/Fernando-68/Front-end_honeydukes-gestao
+- Front-end (admin): https://github.com/suehtam6/projeto-integrador-doceria-adm
 - Protótipo Figma: https://www.figma.com/design/rm0e2OfZZHG7EUjxemnuok/HoneyDuke-s?node-id=0-1&p=f&t=UhRsF76ewY1XeZ8l-0
